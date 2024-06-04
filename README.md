@@ -1,1 +1,1 @@
-# js-task-3-1
+# JS-Task-3-1
